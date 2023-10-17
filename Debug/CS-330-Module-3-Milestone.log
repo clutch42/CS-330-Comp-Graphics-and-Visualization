@@ -1,0 +1,62 @@
+﻿  Main.cpp
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(461,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(986,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1045,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(994,19): warning C4101: 'color': unreferenced local variable
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1055,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1118,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1063,19): warning C4101: 'color': unreferenced local variable
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1133,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1157,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1201,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1202,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1392,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1394,25): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1396,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1397,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1398,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1423,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1454,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1462,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1464,25): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1466,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1467,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1468,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1492,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1506,34): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1507,34): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1508,39): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1512,34): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1513,39): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1514,42): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1518,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Main.cpp(1519,38): warning C4244: '=': conversion from '_Ty' to 'GLushort', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+  CS-330-Module-3-Milestone.vcxproj -> C:\Users\clutc\VisualStudio\CS-330-Module-3-Milestone\Debug\CS-330-Module-3-Milestone.exe
